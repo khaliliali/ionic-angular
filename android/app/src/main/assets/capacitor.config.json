@@ -1,0 +1,10 @@
+{
+  "appId": "com.homoro.ionicangular",
+  "appName": "ionic-angular",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "server": {
+    "url": "http://localhost:8100"
+  }
+}
